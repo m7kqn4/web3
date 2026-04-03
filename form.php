@@ -18,7 +18,6 @@
     }
 
     .form-card {
-    background: #ffffff;
     padding: 40px;
     border-radius: 28px;
     width: 100%;
