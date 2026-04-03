@@ -7,7 +7,7 @@
     <style>
     body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    background: #ffffff;
+    background: lightsteelblue;
     display: flex;
     justify-content: center;
     align-items: center;
